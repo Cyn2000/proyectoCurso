@@ -4,3 +4,9 @@ h1{
 h2{
     color: rgb(255, 0, 128);
 }
+
+body{
+    color: bisque;
+    margin: auto;
+    width: 100px;
+}
